@@ -23,3 +23,4 @@ var integerBreak = function(n) {
     }
     return parts.reduce((a,b) => a * b, 1)
 };
+
